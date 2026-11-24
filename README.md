@@ -1,5 +1,7 @@
 # vdetect — CMS & Web Application Version Detector (`v2.0.0`)
 
+![vdetect cover](vdetect-cover.webp)
+
 A modern, standalone Bash + Python 3 CLI for detecting **CMS & web application installations** and their versions across **cPanel, Apache, Nginx, and standalone Linux** directories — replacing legacy Python 2.7 `vdetect` with zero external dependencies, built-in offline signatures, and `table` / `json` / `csv` outputs.
 
 ## Features
